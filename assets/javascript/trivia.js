@@ -5,9 +5,26 @@ window.onload = function() {
 };
 
 var quizObject = [
-  {question1: "Which one of these heavenly bodies does not belong to the Local Group?", answer1: "Milky Way", answer2: "Andromeda Galaxy", answer3: "Abell 3266", answer4: "Segue 1", correctA: "Abell 3266"},
-  {question1: "Which one of these is not a star?", answer1: "Alpha Centauri A", answer2: "Tau Ceti", answer3: "Cetus", answer4: "Alpha Centauri B", correctA: "Cetus"},
-  {question1: "Uranus's spin axis is tilted at how many degrees?", answer1: "ninety-eight degrees", answer2: "ninety-nine degrees", answer3: "23.5 degrees", answer4: "90 degrees", correctA: "ninety-eight degrees"},
+  {
+   question1: "Which one of these heavenly bodies does not belong to the Local Group?", 
+   answer1: "Milky Way", answer2: "Andromeda Galaxy", 
+   answer3: "Abell 3266", answer4: "Segue 1", correctA: "Abell 3266"
+  },
+  {
+    question1: "Which one of these is not a star?", 
+    answer1: "Alpha Centauri A", 
+    answer2: "Tau Ceti", 
+    answer3: "Cetus", 
+    answer4: "Alpha Centauri B", 
+    correctA: "Cetus"
+  },
+  {
+    question1: "Uranus's spin axis is tilted at how many degrees?", 
+    answer1: "ninety-eight degrees", answer2: "ninety-nine degrees", 
+    answer3: "23.5 degrees", 
+    answer4: "90 degrees", 
+    correctA: "ninety-eight degrees"
+  },
   {question1: "Jupiter has this many moons?", answer1: "67", answer2: "68", answer3: "69", answer4: "62", correctA: "69"},
   {question1: "The distance from Earth to the Sun is?", answer1: "9.3 million mi", answer2: "149.6 million mi", answer3: "149.6 million km", answer4: "93 million km", correctA: "149.6 million km"},
   {question1: "Name the farthest planet to the sun?", answer1: "Neptune", answer2: "Sun", answer3: "Jupiter", answer4: "Saturn", correctA: "Neptune"},
